@@ -1,0 +1,7 @@
+interface:
+  display_name: "摄影作品集选片助手"
+  short_description: "原片初选、成片精选与摄影作品集主题策展"
+  default_prompt: "Use $photo-portfolio-curator to review a photo folder, choose the right mode, and explain the selections."
+
+policy:
+  allow_implicit_invocation: true
